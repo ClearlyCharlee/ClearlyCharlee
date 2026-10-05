@@ -65,9 +65,9 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=E6B3FF&vCenter=true&width=500&lines=what+I'm+into" alt="what I'm into" />
 
-↳ AI — I use it with a realistic view of it: it's a tool<br>
-↳ Automation & DevOps — passionate about it, even if for now I'm still trying to understand everything<br>
-↳ C — another way into the automation & DevOps world, closer to the machine<br>
+↳ AI - I use it with a realistic view of it. Like, it's just a tool dude<br>
+↳ Automation & DevOps - passionate about it, even if for now I'm still trying to understand everything<br>
+↳ C - another way into the automation & DevOps world, closer to the machine<br>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=B3E6FF&vCenter=true&width=500&lines=currently+building" alt="currently building" />
 
