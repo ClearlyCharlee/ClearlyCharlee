@@ -76,4 +76,4 @@
 
 ---
 
-✨ <i><b>goal right now:</b> a C program that compiles on the first try</i>
+✨ <i><b>goal right now:</b> a C program that compiles on the first try lol</i>
