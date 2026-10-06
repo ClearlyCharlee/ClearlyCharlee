@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/NotLaProvidence">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=750&color=FFB8C6&center=true&vCenter=true&width=600&lines=%E2%9C%A6+Hi%2C+I'm+LaProvidence+%E2%9C%A6;Automation+%26+DevOps+enthusiast;Homelab+on+3+Raspberry+Pi+5;If+it+compiles%2C+it's+already+a+win" alt="Typing SVG" />
+  <a href="https://github.com/ClearlyCharlee">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=750&color=FFB8C6&center=true&vCenter=true&width=600&lines=%E2%9C%A6+Hi%2C+I'm+Charlee+%E2%9C%A6;Automation+%26+DevOps+enthusiast;Homelab+on+3+Raspberry+Pi+5;If+it+compiles%2C+it's+already+a+win" alt="Typing SVG" />
   </a>
 </div>
 
